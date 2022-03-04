@@ -13,7 +13,8 @@ Save to your index.html and upload to your website (use 000webhostapp if you don
 # Reminder
 
 Please just read on how to do it before asking me how to make it 
-https://user-images.githubusercontent.com/95067718/156715312-5c57f788-27db-4cd9-a61a-1790e3f8b6d9.jpg
+
+![image](https://user-images.githubusercontent.com/95067718/156715312-5c57f788-27db-4cd9-a61a-1790e3f8b6d9.jpg)
 
 Educational purposes only please don't use this maliciously this is very powerful so please don't go cookie logging your friends the last thing you'll see is that you have no more friends on discord because you did that so yeah.
 
